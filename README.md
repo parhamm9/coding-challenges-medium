@@ -53,7 +53,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) f
 
 ## Contact
 
-Your Name - parham.mir@gmail.com
+email: - parham.mir@gmail.com
 
 Project Link: https://github.com/parhamm9/coding-challenges-medium
 
