@@ -22,15 +22,16 @@ Clone this repository to your local machine to get started:
 ```bash
 git clone https://github.com/parhamm9/coding-challenges-medium.git
 cd coding-challenges-medium
+
 Usage
 
 Each directory within this repository is named after a specific challenge and contains all relevant files, including a detailed explanation in Markdown format:
 
-bash
-Copy code
 cd <challenge-directory>
 # Open the Markdown file or run the solution script
-## Challenges
+
+
+Challenges
 
 Here are some of the challenges you will find in this repository:
 
@@ -42,16 +43,16 @@ Path: merge-sorted-arrays
 Description: Comprehensive guide on merging two sorted arrays, with step-by-step code explanations and edge case considerations.
 (Add more challenges as you complete them)
 
-## Contributing
+Contributing
 
 Feel free to fork this repository and contribute by submitting pull requests with your solutions to coding challenges. Please make sure to update tests as appropriate.
 
-## License
+License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Contact
+Contact
 
 GitHub: @parhamm9
-Email: your-email@example.com
+Email: parham.mir@gmail.com
 Feel free to reach out if you have any questions or if you want to join me on my coding journey!
